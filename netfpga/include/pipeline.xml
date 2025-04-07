@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<nf:module xmlns:nf="http://www.NetFPGA.org/NF2_register_system" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.NetFPGA.org/NF2_register_system NF2_register_system.xsd ">
+	<nf:name>pipeline</nf:name>
+	<nf:prefix>pipeline</nf:prefix>
+	<nf:location>udp</nf:location>
+	<nf:description>Registers for PIPELINE</nf:description>
+	<nf:blocksize>64</nf:blocksize>
+	<nf:registers>
+		<nf:register>
+			<nf:name>cmd_in</nf:name>
+			<nf:description>command write register</nf:description>
+			<nf:type>generic_software32</nf:type>
+		</nf:register>
+		<nf:register>
+			<nf:name>din_low</nf:name>
+			<nf:description>lower 32-bit of d-mem write data </nf:description>
+			<nf:type>generic_software32</nf:type>
+		</nf:register>
+		<nf:register>
+			<nf:name>din_high</nf:name>
+			<nf:description>higher 32-bit of d-mem write data </nf:description>
+			<nf:type>generic_software32</nf:type>
+		</nf:register>
+		<nf:register>
+			<nf:name>cmd_out</nf:name>
+			<nf:description>command read register</nf:description>
+			<nf:type>generic_hardware32</nf:type>
+		</nf:register>
+		<nf:register>
+			<nf:name>dout_low</nf:name>
+			<nf:description>lower 32-bit of d-mem read data </nf:description>
+			<nf:type>generic_hardware32</nf:type>
+		</nf:register>
+		<nf:register>
+			<nf:name>dout_high</nf:name>
+			<nf:description>higher 32-bit of d-mem read data </nf:description>
+			<nf:type>generic_hardware32</nf:type>
+		</nf:register>
+	</nf:registers>
+</nf:module>

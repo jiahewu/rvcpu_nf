@@ -1,0 +1,440 @@
+m255
+K4
+z2
+13
+!s112 1.1
+!i10d 8192
+!i10e 25
+!i10f 100
+cModel Technology
+Z0 dC:/modeltech64_10.6e/examples
+T_opt
+!s110 1742720627
+VbMWiL@E3i<;ZUSHDza?Sa1
+04 6 4 work cpu_tb fast 0
+=1-04e8b93701e0-67dfce72-3b6-105dc
+o-quiet -auto_acc_if_foreign -work work +acc
+Z1 tCvgOpt 0
+n@_opt
+OL;O;10.6e;65
+R0
+vadd_4
+Z2 VDg1SIo80bB@j0V0VzS_@n1
+r1
+!s85 0
+31
+!i10b 1
+!s100 e@`D8Q`jV2W7?YDD;GLel2
+IdS=`9:YCo0^ONbQT=zYNE0
+Z3 dE:/EE533/lab8_mem_interface
+w1741416809
+8E:/EE533/lab8_mem_interface/add_4.v
+FE:/EE533/lab8_mem_interface/add_4.v
+L0 1
+Z4 OL;L;10.6e;65
+Z5 !s108 1742720192.000000
+!s107 E:/EE533/lab8_mem_interface/add_4.v|
+!s90 -reportprogress|300|-work|work|-vopt|E:/EE533/lab8_mem_interface/add_4.v|
+!i113 0
+Z6 o-work work -L mtiAvm -L mtiRnm -L mtiOvm -L mtiUvm -L mtiUPF -L infact
+R1
+vadd_pc
+R2
+r1
+!s85 0
+31
+!i10b 1
+!s100 9h7_d]dLYnOGnz@L_D6Zm2
+IP8fAPc?m2Qi__?B^;1<6I1
+R3
+w1741393888
+8E:/EE533/lab8_mem_interface/add_pc.v
+FE:/EE533/lab8_mem_interface/add_pc.v
+L0 1
+R4
+R5
+!s107 E:/EE533/lab8_mem_interface/add_pc.v|
+!s90 -reportprogress|300|-work|work|-vopt|E:/EE533/lab8_mem_interface/add_pc.v|
+!i113 0
+R6
+R1
+valu
+R2
+r1
+!s85 0
+31
+!i10b 1
+!s100 AEYD0AZ:eLa]0maIEcB5_3
+ICd`zjQJXf7Rm3M=GD24lK2
+R3
+w1741390420
+8E:/EE533/lab8_mem_interface/alu.v
+FE:/EE533/lab8_mem_interface/alu.v
+L0 1
+R4
+R5
+!s107 E:/EE533/lab8_mem_interface/alu.v|
+!s90 -reportprogress|300|-work|work|-vopt|E:/EE533/lab8_mem_interface/alu.v|
+!i113 0
+R6
+R1
+vcontroller
+R2
+r1
+!s85 0
+31
+!i10b 1
+!s100 gINnUi7eMi7:kJ604BniU3
+I7YoYg?jfE1Pda643WhRhB2
+R3
+w1742712526
+8E:/EE533/lab8_mem_interface/controller.v
+FE:/EE533/lab8_mem_interface/controller.v
+L0 1
+R4
+R5
+!s107 E:/EE533/lab8_mem_interface/controller.v|
+!s90 -reportprogress|300|-work|work|-vopt|E:/EE533/lab8_mem_interface/controller.v|
+!i113 0
+R6
+R1
+vcpu
+R2
+r1
+!s85 0
+31
+!i10b 1
+!s100 kaKISgjZ]kUcVa=l2<KEg0
+IPR8Gn]ddSNW^KP>A^1gIm2
+R3
+w1742716190
+8E:/EE533/lab8_mem_interface/cpu.v
+FE:/EE533/lab8_mem_interface/cpu.v
+L0 3
+R4
+R5
+!s107 E:/EE533/lab8_mem_interface/cpu.v|
+!s90 -reportprogress|300|-work|work|-vopt|E:/EE533/lab8_mem_interface/cpu.v|
+!i113 0
+R6
+R1
+vcpu_tb
+R2
+r1
+!s85 0
+31
+!i10b 1
+!s100 0_Jm3cXioh3OZNRjlcS_43
+IYn@n^3nKKdUVBmQz3i;mo1
+R3
+w1742720603
+8E:/EE533/lab8_mem_interface/cpu_tb.v
+FE:/EE533/lab8_mem_interface/cpu_tb.v
+L0 3
+R4
+!s108 1742720620.000000
+!s107 E:/EE533/lab8_mem_interface/cpu_tb.v|
+!s90 -reportprogress|300|-work|work|-vopt|-stats=none|E:/EE533/lab8_mem_interface/cpu_tb.v|
+!i113 0
+R6
+R1
+vdata_mem_64
+R2
+r1
+!s85 0
+31
+!i10b 1
+!s100 eN4HlzEOc8?:eFefzfKz?2
+IBXFZnPlXmJ;D7^1K6;R072
+R3
+w1742687205
+8E:/EE533/lab8_mem_interface/data_mem_64.v
+FE:/EE533/lab8_mem_interface/data_mem_64.v
+L0 1
+R4
+R5
+!s107 E:/EE533/lab8_mem_interface/data_mem_64.v|
+!s90 -reportprogress|300|-work|work|-vopt|E:/EE533/lab8_mem_interface/data_mem_64.v|
+!i113 0
+R6
+R1
+vex_me
+R2
+r1
+!s85 0
+31
+!i10b 1
+!s100 0JW8`96hBUSJe][nVH=g82
+I>V2D6`cAm8Do1<5F6L=W?1
+R3
+w1742712205
+8E:/EE533/lab8_mem_interface/ex_me.v
+FE:/EE533/lab8_mem_interface/ex_me.v
+L0 1
+R4
+R5
+!s107 E:/EE533/lab8_mem_interface/ex_me.v|
+!s90 -reportprogress|300|-work|work|-vopt|E:/EE533/lab8_mem_interface/ex_me.v|
+!i113 0
+R6
+R1
+vforward_unit
+R2
+r1
+!s85 0
+31
+!i10b 1
+!s100 B_mON4g<az1n?Q@BF=HJU1
+I@5298Nood^;>XGK]SEIDz3
+R3
+w1741338250
+8E:/EE533/lab8_mem_interface/forward_unit.v
+FE:/EE533/lab8_mem_interface/forward_unit.v
+L0 1
+R4
+R5
+!s107 E:/EE533/lab8_mem_interface/forward_unit.v|
+!s90 -reportprogress|300|-work|work|-vopt|E:/EE533/lab8_mem_interface/forward_unit.v|
+!i113 0
+R6
+R1
+vhazard_detection_unit
+R2
+r1
+!s85 0
+31
+!i10b 1
+!s100 O[iWl2U2Ge?hXT6FA@1?h3
+IJ5C1k^c]eneAHLCi[:JSd3
+R3
+Z7 w1741324062
+8E:/EE533/lab8_mem_interface/hazard_detection_unit.v
+FE:/EE533/lab8_mem_interface/hazard_detection_unit.v
+L0 1
+R4
+R5
+!s107 E:/EE533/lab8_mem_interface/hazard_detection_unit.v|
+!s90 -reportprogress|300|-work|work|-vopt|E:/EE533/lab8_mem_interface/hazard_detection_unit.v|
+!i113 0
+R6
+R1
+vid
+R2
+r1
+!s85 0
+31
+!i10b 1
+!s100 ^WHmoIV>3>iGj@0SBUV?U0
+IRQbF64@2gMEPB`AT3jJzj1
+R3
+R7
+8E:/EE533/lab8_mem_interface/id.v
+FE:/EE533/lab8_mem_interface/id.v
+L0 1
+R4
+R5
+!s107 E:/EE533/lab8_mem_interface/id.v|
+!s90 -reportprogress|300|-work|work|-vopt|E:/EE533/lab8_mem_interface/id.v|
+!i113 0
+R6
+R1
+vid_ex
+R2
+r1
+!s85 0
+31
+!i10b 1
+!s100 Tgdznej>C98CMQ][FSjR>1
+I7Q1JH:AMbNhOO6igkWnT_2
+R3
+w1742712140
+8E:/EE533/lab8_mem_interface/id_ex.v
+FE:/EE533/lab8_mem_interface/id_ex.v
+L0 1
+R4
+R5
+!s107 E:/EE533/lab8_mem_interface/id_ex.v|
+!s90 -reportprogress|300|-work|work|-vopt|E:/EE533/lab8_mem_interface/id_ex.v|
+!i113 0
+R6
+R1
+vif_id
+R2
+r1
+!s85 0
+31
+!i10b 1
+!s100 ^hQciPTV>BAEReZ@:d?]63
+IOK`?HPSIi6Y]b=zY2iB2@2
+R3
+w1742542943
+8E:/EE533/lab8_mem_interface/if_id.v
+FE:/EE533/lab8_mem_interface/if_id.v
+L0 1
+R4
+R5
+!s107 E:/EE533/lab8_mem_interface/if_id.v|
+!s90 -reportprogress|300|-work|work|-vopt|E:/EE533/lab8_mem_interface/if_id.v|
+!i113 0
+R6
+R1
+vimm_64
+R2
+r1
+!s85 0
+31
+!i10b 1
+!s100 T]4I1HQGeW2fcigj5Z3=]1
+I<Xa2QE9g:[JC6?@LS0ET<1
+R3
+w1741675934
+8E:/EE533/lab8_mem_interface/imm_64.v
+FE:/EE533/lab8_mem_interface/imm_64.v
+L0 1
+R4
+R5
+!s107 E:/EE533/lab8_mem_interface/imm_64.v|
+!s90 -reportprogress|300|-work|work|-vopt|E:/EE533/lab8_mem_interface/imm_64.v|
+!i113 0
+R6
+R1
+vinstruction_mem
+R2
+r1
+!s85 0
+31
+!i10b 1
+!s100 AlX[HR3cMCOoHZz8Eh3l_0
+IZ3<i?_ek=Plezj`CN0IgT0
+R3
+w1742542550
+8E:/EE533/lab8_mem_interface/instruction_mem.v
+FE:/EE533/lab8_mem_interface/instruction_mem.v
+L0 1
+R4
+Z8 !s108 1742720193.000000
+!s107 E:/EE533/lab8_mem_interface/instruction_mem.v|
+!s90 -reportprogress|300|-work|work|-vopt|E:/EE533/lab8_mem_interface/instruction_mem.v|
+!i113 0
+R6
+R1
+vme_wb
+R2
+r1
+!s85 0
+31
+!i10b 1
+!s100 hfQQ:COF0RkVZSO^nPK2P2
+IL=Y=SJMH:5aKe2TC^iSCz0
+R3
+w1742544282
+8E:/EE533/lab8_mem_interface/me_wb.v
+FE:/EE533/lab8_mem_interface/me_wb.v
+L0 1
+R4
+R8
+!s107 E:/EE533/lab8_mem_interface/me_wb.v|
+!s90 -reportprogress|300|-work|work|-vopt|E:/EE533/lab8_mem_interface/me_wb.v|
+!i113 0
+R6
+R1
+vmux_2
+R2
+r1
+!s85 0
+31
+!i10b 1
+!s100 S?<WoRbmamlR5>08TEVO[1
+IMX6gREC:XKWHD<@<eK?9k0
+R3
+w1741390920
+8E:/EE533/lab8_mem_interface/mux_2.v
+FE:/EE533/lab8_mem_interface/mux_2.v
+L0 1
+R4
+R8
+!s107 E:/EE533/lab8_mem_interface/mux_2.v|
+!s90 -reportprogress|300|-work|work|-vopt|E:/EE533/lab8_mem_interface/mux_2.v|
+!i113 0
+R6
+R1
+vmux_3
+R2
+r1
+!s85 0
+31
+!i10b 1
+!s100 FmK<k?b?Ta6edNXTCWXI31
+Ijg6:?O3Gfi4elIEJV:`gl0
+R3
+w1741390279
+8E:/EE533/lab8_mem_interface/mux_3.v
+FE:/EE533/lab8_mem_interface/mux_3.v
+L0 1
+R4
+R8
+!s107 E:/EE533/lab8_mem_interface/mux_3.v|
+!s90 -reportprogress|300|-work|work|-vopt|E:/EE533/lab8_mem_interface/mux_3.v|
+!i113 0
+R6
+R1
+vnext_pc
+R2
+r1
+!s85 0
+31
+!i10b 1
+!s100 TDcWIeoM<<T6]=UNV66XJ3
+I5=o?ZEVbQKjjb_lV>?[?60
+R3
+w1741394851
+8E:/EE533/lab8_mem_interface/next_pc.v
+FE:/EE533/lab8_mem_interface/next_pc.v
+L0 1
+R4
+R8
+!s107 E:/EE533/lab8_mem_interface/next_pc.v|
+!s90 -reportprogress|300|-work|work|-vopt|E:/EE533/lab8_mem_interface/next_pc.v|
+!i113 0
+R6
+R1
+vpc
+R2
+r1
+!s85 0
+31
+!i10b 1
+!s100 LDZ4FFUcWo9o;EYUG:fhN0
+Ik<1dJVY^oBh6]go3`Y`9T0
+R3
+w1742531907
+8E:/EE533/lab8_mem_interface/pc.v
+FE:/EE533/lab8_mem_interface/pc.v
+L0 1
+R4
+R8
+!s107 E:/EE533/lab8_mem_interface/pc.v|
+!s90 -reportprogress|300|-work|work|-vopt|E:/EE533/lab8_mem_interface/pc.v|
+!i113 0
+R6
+R1
+vreg_file
+R2
+r1
+!s85 0
+31
+!i10b 1
+!s100 dY3^i2JP38^=M>9kL4`J;0
+II?;NY^>LbWckDNgM?hYZa3
+R3
+w1742543900
+8E:/EE533/lab8_mem_interface/reg_file.v
+FE:/EE533/lab8_mem_interface/reg_file.v
+L0 1
+R4
+R8
+!s107 E:/EE533/lab8_mem_interface/reg_file.v|
+!s90 -reportprogress|300|-work|work|-vopt|E:/EE533/lab8_mem_interface/reg_file.v|
+!i113 0
+R6
+R1

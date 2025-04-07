@@ -1,0 +1,221 @@
+E:/EE533/lab8_mem_interface/instruction_mem.v {1 {vlog -work work -vopt E:/EE533/lab8_mem_interface/instruction_mem.v
+Model Technology ModelSim SE-64 vlog 10.6e Compiler 2018.06 Jun 23 2018
+Start time: 01:56:33 on Mar 23,2025
+vlog -reportprogress 300 -work work -vopt E:/EE533/lab8_mem_interface/instruction_mem.v 
+-- Compiling module instruction_mem
+
+Top level modules:
+	instruction_mem
+End time: 01:56:33 on Mar 23,2025, Elapsed time: 0:00:00
+Errors: 0, Warnings: 0
+
+} {} {}} E:/EE533/lab8_mem_interface/id_ex.v {1 {vlog -work work -vopt E:/EE533/lab8_mem_interface/id_ex.v
+Model Technology ModelSim SE-64 vlog 10.6e Compiler 2018.06 Jun 23 2018
+Start time: 01:56:32 on Mar 23,2025
+vlog -reportprogress 300 -work work -vopt E:/EE533/lab8_mem_interface/id_ex.v 
+-- Compiling module id_ex
+
+Top level modules:
+	id_ex
+End time: 01:56:32 on Mar 23,2025, Elapsed time: 0:00:00
+Errors: 0, Warnings: 0
+
+} {} {}} E:/EE533/lab8_mem_interface/data_mem_64.v {1 {vlog -work work -vopt E:/EE533/lab8_mem_interface/data_mem_64.v
+Model Technology ModelSim SE-64 vlog 10.6e Compiler 2018.06 Jun 23 2018
+Start time: 01:56:32 on Mar 23,2025
+vlog -reportprogress 300 -work work -vopt E:/EE533/lab8_mem_interface/data_mem_64.v 
+-- Compiling module data_mem_64
+
+Top level modules:
+	data_mem_64
+End time: 01:56:32 on Mar 23,2025, Elapsed time: 0:00:00
+Errors: 0, Warnings: 0
+
+} {} {}} E:/EE533/lab8_mem_interface/alu.v {1 {vlog -work work -vopt E:/EE533/lab8_mem_interface/alu.v
+Model Technology ModelSim SE-64 vlog 10.6e Compiler 2018.06 Jun 23 2018
+Start time: 01:56:32 on Mar 23,2025
+vlog -reportprogress 300 -work work -vopt E:/EE533/lab8_mem_interface/alu.v 
+-- Compiling module alu
+
+Top level modules:
+	alu
+End time: 01:56:32 on Mar 23,2025, Elapsed time: 0:00:00
+Errors: 0, Warnings: 0
+
+} {} {}} E:/EE533/lab8_mem_interface/if_id.v {1 {vlog -work work -vopt E:/EE533/lab8_mem_interface/if_id.v
+Model Technology ModelSim SE-64 vlog 10.6e Compiler 2018.06 Jun 23 2018
+Start time: 01:56:32 on Mar 23,2025
+vlog -reportprogress 300 -work work -vopt E:/EE533/lab8_mem_interface/if_id.v 
+-- Compiling module if_id
+
+Top level modules:
+	if_id
+End time: 01:56:32 on Mar 23,2025, Elapsed time: 0:00:00
+Errors: 0, Warnings: 0
+
+} {} {}} E:/EE533/lab8_mem_interface/pc.v {1 {vlog -work work -vopt E:/EE533/lab8_mem_interface/pc.v
+Model Technology ModelSim SE-64 vlog 10.6e Compiler 2018.06 Jun 23 2018
+Start time: 01:56:33 on Mar 23,2025
+vlog -reportprogress 300 -work work -vopt E:/EE533/lab8_mem_interface/pc.v 
+-- Compiling module pc
+
+Top level modules:
+	pc
+End time: 01:56:33 on Mar 23,2025, Elapsed time: 0:00:00
+Errors: 0, Warnings: 0
+
+} {} {}} E:/EE533/lab8_mem_interface/add_pc.v {1 {vlog -work work -vopt E:/EE533/lab8_mem_interface/add_pc.v
+Model Technology ModelSim SE-64 vlog 10.6e Compiler 2018.06 Jun 23 2018
+Start time: 01:56:32 on Mar 23,2025
+vlog -reportprogress 300 -work work -vopt E:/EE533/lab8_mem_interface/add_pc.v 
+-- Compiling module add_pc
+
+Top level modules:
+	add_pc
+End time: 01:56:32 on Mar 23,2025, Elapsed time: 0:00:00
+Errors: 0, Warnings: 0
+
+} {} {}} E:/EE533/lab8_mem_interface/controller.v {1 {vlog -work work -vopt E:/EE533/lab8_mem_interface/controller.v
+Model Technology ModelSim SE-64 vlog 10.6e Compiler 2018.06 Jun 23 2018
+Start time: 01:56:32 on Mar 23,2025
+vlog -reportprogress 300 -work work -vopt E:/EE533/lab8_mem_interface/controller.v 
+-- Compiling module controller
+
+Top level modules:
+	controller
+End time: 01:56:32 on Mar 23,2025, Elapsed time: 0:00:00
+Errors: 0, Warnings: 0
+
+} {} {}} E:/EE533/lab8_mem_interface/add_4.v {1 {vlog -work work -vopt E:/EE533/lab8_mem_interface/add_4.v
+Model Technology ModelSim SE-64 vlog 10.6e Compiler 2018.06 Jun 23 2018
+Start time: 01:56:32 on Mar 23,2025
+vlog -reportprogress 300 -work work -vopt E:/EE533/lab8_mem_interface/add_4.v 
+-- Compiling module add_4
+
+Top level modules:
+	add_4
+End time: 01:56:32 on Mar 23,2025, Elapsed time: 0:00:00
+Errors: 0, Warnings: 0
+
+} {} {}} E:/EE533/lab8_mem_interface/reg_file.v {1 {vlog -work work -vopt E:/EE533/lab8_mem_interface/reg_file.v
+Model Technology ModelSim SE-64 vlog 10.6e Compiler 2018.06 Jun 23 2018
+Start time: 01:56:33 on Mar 23,2025
+vlog -reportprogress 300 -work work -vopt E:/EE533/lab8_mem_interface/reg_file.v 
+-- Compiling module reg_file
+
+Top level modules:
+	reg_file
+End time: 01:56:33 on Mar 23,2025, Elapsed time: 0:00:00
+Errors: 0, Warnings: 0
+
+} {} {}} E:/EE533/lab8_mem_interface/id.v {1 {vlog -work work -vopt E:/EE533/lab8_mem_interface/id.v
+Model Technology ModelSim SE-64 vlog 10.6e Compiler 2018.06 Jun 23 2018
+Start time: 01:56:32 on Mar 23,2025
+vlog -reportprogress 300 -work work -vopt E:/EE533/lab8_mem_interface/id.v 
+-- Compiling module id
+
+Top level modules:
+	id
+End time: 01:56:32 on Mar 23,2025, Elapsed time: 0:00:00
+Errors: 0, Warnings: 0
+
+} {} {}} E:/EE533/lab8_mem_interface/ex_me.v {1 {vlog -work work -vopt E:/EE533/lab8_mem_interface/ex_me.v
+Model Technology ModelSim SE-64 vlog 10.6e Compiler 2018.06 Jun 23 2018
+Start time: 01:56:32 on Mar 23,2025
+vlog -reportprogress 300 -work work -vopt E:/EE533/lab8_mem_interface/ex_me.v 
+-- Compiling module ex_me
+
+Top level modules:
+	ex_me
+End time: 01:56:32 on Mar 23,2025, Elapsed time: 0:00:00
+Errors: 0, Warnings: 0
+
+} {} {}} E:/EE533/lab8_mem_interface/hazard_detection_unit.v {1 {vlog -work work -vopt E:/EE533/lab8_mem_interface/hazard_detection_unit.v
+Model Technology ModelSim SE-64 vlog 10.6e Compiler 2018.06 Jun 23 2018
+Start time: 01:56:32 on Mar 23,2025
+vlog -reportprogress 300 -work work -vopt E:/EE533/lab8_mem_interface/hazard_detection_unit.v 
+-- Compiling module hazard_detection_unit
+
+Top level modules:
+	hazard_detection_unit
+End time: 01:56:32 on Mar 23,2025, Elapsed time: 0:00:00
+Errors: 0, Warnings: 0
+
+} {} {}} E:/EE533/lab8_mem_interface/cpu.v {1 {vlog -work work -vopt E:/EE533/lab8_mem_interface/cpu.v
+Model Technology ModelSim SE-64 vlog 10.6e Compiler 2018.06 Jun 23 2018
+Start time: 01:56:32 on Mar 23,2025
+vlog -reportprogress 300 -work work -vopt E:/EE533/lab8_mem_interface/cpu.v 
+-- Compiling module cpu
+
+Top level modules:
+	cpu
+End time: 01:56:32 on Mar 23,2025, Elapsed time: 0:00:00
+Errors: 0, Warnings: 0
+
+} {} {}} E:/EE533/lab8_mem_interface/next_pc.v {1 {vlog -work work -vopt E:/EE533/lab8_mem_interface/next_pc.v
+Model Technology ModelSim SE-64 vlog 10.6e Compiler 2018.06 Jun 23 2018
+Start time: 01:56:33 on Mar 23,2025
+vlog -reportprogress 300 -work work -vopt E:/EE533/lab8_mem_interface/next_pc.v 
+-- Compiling module next_pc
+
+Top level modules:
+	next_pc
+End time: 01:56:33 on Mar 23,2025, Elapsed time: 0:00:00
+Errors: 0, Warnings: 0
+
+} {} {}} E:/EE533/lab8_mem_interface/me_wb.v {1 {vlog -work work -vopt E:/EE533/lab8_mem_interface/me_wb.v
+Model Technology ModelSim SE-64 vlog 10.6e Compiler 2018.06 Jun 23 2018
+Start time: 01:56:33 on Mar 23,2025
+vlog -reportprogress 300 -work work -vopt E:/EE533/lab8_mem_interface/me_wb.v 
+-- Compiling module me_wb
+
+Top level modules:
+	me_wb
+End time: 01:56:33 on Mar 23,2025, Elapsed time: 0:00:00
+Errors: 0, Warnings: 0
+
+} {} {}} E:/EE533/lab8_mem_interface/mux_2.v {1 {vlog -work work -vopt E:/EE533/lab8_mem_interface/mux_2.v
+Model Technology ModelSim SE-64 vlog 10.6e Compiler 2018.06 Jun 23 2018
+Start time: 01:56:33 on Mar 23,2025
+vlog -reportprogress 300 -work work -vopt E:/EE533/lab8_mem_interface/mux_2.v 
+-- Compiling module mux_2
+
+Top level modules:
+	mux_2
+End time: 01:56:33 on Mar 23,2025, Elapsed time: 0:00:00
+Errors: 0, Warnings: 0
+
+} {} {}} E:/EE533/lab8_mem_interface/mux_3.v {1 {vlog -work work -vopt E:/EE533/lab8_mem_interface/mux_3.v
+Model Technology ModelSim SE-64 vlog 10.6e Compiler 2018.06 Jun 23 2018
+Start time: 01:56:33 on Mar 23,2025
+vlog -reportprogress 300 -work work -vopt E:/EE533/lab8_mem_interface/mux_3.v 
+-- Compiling module mux_3
+
+Top level modules:
+	mux_3
+End time: 01:56:33 on Mar 23,2025, Elapsed time: 0:00:00
+Errors: 0, Warnings: 0
+
+} {} {}} E:/EE533/lab8_mem_interface/imm_64.v {1 {vlog -work work -vopt E:/EE533/lab8_mem_interface/imm_64.v
+Model Technology ModelSim SE-64 vlog 10.6e Compiler 2018.06 Jun 23 2018
+Start time: 01:56:32 on Mar 23,2025
+vlog -reportprogress 300 -work work -vopt E:/EE533/lab8_mem_interface/imm_64.v 
+-- Compiling module imm_64
+
+Top level modules:
+	imm_64
+End time: 01:56:33 on Mar 23,2025, Elapsed time: 0:00:01
+Errors: 0, Warnings: 0
+
+} {} {}} E:/EE533/lab8_mem_interface/forward_unit.v {1 {vlog -work work -vopt E:/EE533/lab8_mem_interface/forward_unit.v
+Model Technology ModelSim SE-64 vlog 10.6e Compiler 2018.06 Jun 23 2018
+Start time: 01:56:32 on Mar 23,2025
+vlog -reportprogress 300 -work work -vopt E:/EE533/lab8_mem_interface/forward_unit.v 
+-- Compiling module forward_unit
+
+Top level modules:
+	forward_unit
+End time: 01:56:32 on Mar 23,2025, Elapsed time: 0:00:00
+Errors: 0, Warnings: 0
+
+} {} {}}

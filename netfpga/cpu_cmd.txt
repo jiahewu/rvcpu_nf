@@ -1,0 +1,24 @@
+cmd register mapping
+|31            28|27                           8|7-0|
+8: start pipeline
+6: read  request
+4: write request
+1: reset
+0: disable
+[31]: pipeline enable
+[30]: request
+[29]: read/write
+[28]: reset
+
+unused bits:
+[27-8]: 20'h00000
+
+data memory address
+[7:0]: 8'h00-8'hff
+
+PIPELINE_CMD_IN_REG        0x2000300
+PIPELINE_DIN_LOW_REG       0x2000304
+PIPELINE_DIN_HIGH_REG      0x2000308
+PIPELINE_CMD_OUT_REG        0x200030C
+PIPELINE_DOUT_LOW_REG       0x2000310
+PIPELINE_DOUT_HIGH_REG      0x2000314
